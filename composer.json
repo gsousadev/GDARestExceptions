@@ -1,0 +1,14 @@
+{
+  "name": "gsousadev/GDARestExceptions",
+  "description": "description",
+  "minimum-stability": "stable",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "guilherme",
+      "email": "email@example.com"
+    }
+  ],
+  "require": {
+  }
+}
